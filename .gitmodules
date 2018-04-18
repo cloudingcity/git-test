@@ -1,0 +1,3 @@
+[submodule "git-test-2"]
+	path = git-test-2
+	url = git@github.com:cloudingcity/git-test-2.git
